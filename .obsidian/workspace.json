@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "b45b5110bd3c77c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebface636647feeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5264b925e015ffe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602f6f01670bd4ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "23813a978a0313e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ec08e66f1790f5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "165aab15e6291a91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee3d28f72948949c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268
+  },
+  "right": {
+    "id": "0e6b4198a633f3a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "95b9e23e246f8c7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046b8ab8bdd7c07e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "bdb78c9b774bbb0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "032113a98b075cc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "835440c3d9df8377",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "11bc294a6e6b44e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "google-drive-sync:Push to Google Drive": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "11bc294a6e6b44e6",
+  "lastOpenFiles": [
+    "Data Engineer/SQL/Alter tables.md",
+    "Data Engineer/SQL/LEARN SQL.md",
+    "Data Engineer/SQL/Add `PRIMARY KEY` to Existing Table in SQL.md",
+    "Data Engineer/Python/Language/Python Basics.md",
+    "Data Engineer/Learn Data Analyst.md",
+    "Data Engineer/Python/LEARN PYTHON.md",
+    "Data Engineer/SQL/How to change a table name in SQL.md",
+    "Data Engineer/SQL/Show all Tables in SQL.md",
+    "Data Engineer/SQL/Show all table Columns in the table (SQL).md",
+    "2025-07-12.md",
+    "Beginner web course.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "Untitled.canvas",
+    "Data Engineer/Python/Language/Syntax.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "Data Engineer/Python/Language/Conditionals.md",
+    "Data Engineer/Python/Language",
+    "Data Engineer/Python",
+    "Data Engineer/SQL",
+    "Untitled",
+    "Data Engineer"
+  ]
+}
