@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c356bf00bc0eb1cd",
+        "id": "affb57e9c239f6aa",
         "type": "tabs",
         "children": [
           {
-            "id": "7fbcb490441ae3bf",
+            "id": "2e1319aca004e239",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/google-drive-sync/data.json",
-                "bFile": ".obsidian/plugins/google-drive-sync/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -192,24 +188,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7fbcb490441ae3bf",
+  "active": "0ec08e66f1790f5d",
   "lastOpenFiles": [
-    "Data Engineer/Python/Language/Syntax.md",
+    "Data Analyst/Python/Syntax.md",
     "Data Engineer/Python/Language/Python Basics.md",
-    "Data Engineer/Python/Language/Variables and Data types.md",
-    "Data Engineer/Python/Language/Conditionals.md",
-    "Data Engineer/SQL/Creating INDEX in SQL.md",
-    "Data Engineer/SQL/Add Foreign key After making a table.md",
-    "Data Engineer/SQL/String Functions.md",
-    "Data Engineer/SQL/Numbers Functions.md",
-    "Data Engineer/SQL/String Functions.md",
-    "Data Engineer/SQL/How to change a table name in SQL.md",
+    "Data Analyst/Python/Variables and Data types.md",
+    "Data Analyst/Python/Conditionals.md",
+    "Data Analyst/SQL/Creating INDEX in SQL.md",
+    "Data Analyst/SQL/Add Foreign key After making a table.md",
+    "Data Analyst/SQL/String Functions.md",
+    "Data Analyst/SQL/Numbers Functions.md",
+    "Data Analyst/SQL/String Functions.md",
+    "Data Analyst/SQL/How to change a table name in SQL.md",
     "Data Engineer/SQL/Drawing 2025-07-16 07.40.29.excalidraw.md",
-    "Data Engineer/SQL/Show all Tables in SQL.md",
+    "Data Analyst/SQL/Show all Tables in SQL.md",
     "Untitled.canvas",
-    "Data Engineer/SQL/Show all table Columns in the table (SQL).md",
-    "Data Engineer/SQL/Copy SQL table to another.md",
-    "Data Engineer/SQL/Add `PRIMARY KEY` to Existing Table in SQL.md",
+    "Data Analyst/SQL/Show all table Columns in the table (SQL).md",
+    "Data Analyst/SQL/Copy SQL table to another.md",
+    "Data Analyst/SQL/Add `PRIMARY KEY` to Existing Table in SQL.md",
     "Data Engineer/SQL/LEARN SQL.md",
     "Untitled 1.canvas",
     "Data Engineer/SQL/Untitled.canvas",
@@ -224,10 +220,10 @@
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts",
-    "Data Engineer/Python/Language",
-    "Data Engineer/Python",
-    "Data Engineer/SQL",
+    "Data Analyst/Python/Language",
+    "Data Analyst/Python",
+    "Data Analyst/SQL",
     "Untitled",
-    "Data Engineer"
+    "Data Analyst"
   ]
 }
