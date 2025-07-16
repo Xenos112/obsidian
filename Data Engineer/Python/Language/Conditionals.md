@@ -1,3 +1,8 @@
+---
+tags:
+  - python
+---
+
 # Python Conditions Guide 
 ## Table of Content
 - [[#What are Conditions?|What are Conditions?]]

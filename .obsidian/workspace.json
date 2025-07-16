@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ee2ffddd3aef0f81",
+        "id": "c356bf00bc0eb1cd",
         "type": "tabs",
         "children": [
           {
-            "id": "46f02f49faa05ece",
+            "id": "7fbcb490441ae3bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "1332c23b14d195e5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/google-drive-sync/data.json",
+                "bFile": ".obsidian/plugins/google-drive-sync/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e9d682d2b50cba70",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -189,8 +192,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1332c23b14d195e5",
+  "active": "7fbcb490441ae3bf",
   "lastOpenFiles": [
+    "Data Engineer/Python/Language/Syntax.md",
+    "Data Engineer/Python/Language/Python Basics.md",
+    "Data Engineer/Python/Language/Variables and Data types.md",
+    "Data Engineer/Python/Language/Conditionals.md",
+    "Data Engineer/SQL/Creating INDEX in SQL.md",
     "Data Engineer/SQL/Add Foreign key After making a table.md",
     "Data Engineer/SQL/String Functions.md",
     "Data Engineer/SQL/Numbers Functions.md",
@@ -206,20 +214,15 @@
     "Untitled 1.canvas",
     "Data Engineer/SQL/Untitled.canvas",
     "Data Engineer/SQL/Alter tables.md",
-    "Data Engineer/Python/Language/Python Basics.md",
     "Data Engineer/Learn Data Analyst.md",
     "Data Engineer/Python/LEARN PYTHON.md",
     "2025-07-12.md",
     "Beginner web course.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
-    "Data Engineer/Python/Language/Syntax.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts",
     "Data Engineer/Python/Language",
     "Data Engineer/Python",

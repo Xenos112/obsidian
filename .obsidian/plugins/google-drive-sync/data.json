@@ -23,7 +23,12 @@
     "Data Engineer/SQL/Copy SQL table to another.md": "create",
     "Data Engineer/SQL/Numbers Functions.md": "create",
     "Data Engineer/SQL/String Functions.md": "create",
-    "Data Engineer/SQL/Add Foreign key After making a table.md": "create"
+    "Data Engineer/SQL/Add Foreign key After making a table.md": "create",
+    "Data Engineer/SQL/Creating INDEX in SQL.md": "create",
+    "Data Engineer/Python/Language/Conditionals.md": "modify",
+    "Data Engineer/Python/Language/Syntax.md": "modify",
+    "Data Engineer/Python/Language/Variables and Data types.md": "modify",
+    "Data Engineer/Python/Language/Python Basics.md": "delete"
   },
   "driveIdToPath": {
     "1SV4s9sjytBnV8OPB0lT6YtWpxhtQmUCB": "Data Engineer",
@@ -64,6 +69,6 @@
     "13h2IboUMyvx4pZyCdpOELXzQlHsN3Vya": ".obsidian/plugins/google-drive-sync/main.js",
     "1OiOJ4a0eJKzRCaUMJdhWTrJmaMxxUmRf": ".obsidian/plugins/obsidian-plugin-toc/manifest.json"
   },
-  "lastSyncedAt": 1752672695989,
-  "changesToken": "18797"
+  "lastSyncedAt": 1752696100439,
+  "changesToken": "18800"
 }

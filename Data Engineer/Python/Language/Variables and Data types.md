@@ -1,3 +1,8 @@
+---
+tags:
+  - python
+---
+
 # Python Variables Guide
 ## Table of Contents
 - [[#What are Variables?|What are Variables?]]

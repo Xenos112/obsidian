@@ -1,3 +1,8 @@
+---
+tags:
+  - python
+---
+
 # Python Syntax
 ---
 python follows a simple philosophy, it have a very basic syntax comparted to other languages at the same type.
