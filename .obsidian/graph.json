@@ -1,22 +1,37 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Needs-Check  ",
+      "color": {
+        "a": 1,
+        "rgb": 3516397
+      }
+    },
+    {
+      "query": "[\"tags\":SQL",
+      "color": {
+        "a": 1,
+        "rgb": 7857454
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.338541666666667,
-  "repelStrength": 9.47916666666667,
-  "linkStrength": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.354166666666667,
+  "repelStrength": 6.5625,
+  "linkStrength": 0.890625,
   "linkDistance": 250,
-  "scale": 0.7503583012156322,
+  "scale": 0.8109975013216416,
   "close": true
 }

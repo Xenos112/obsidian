@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ebface636647feeb",
+        "id": "ee2ffddd3aef0f81",
         "type": "tabs",
         "children": [
           {
-            "id": "d5264b925e015ffe",
+            "id": "46f02f49faa05ece",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1332c23b14d195e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Needs-Check",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 200
   },
   "right": {
     "id": "0e6b4198a633f3a7",
@@ -178,21 +189,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "11bc294a6e6b44e6",
+  "active": "1332c23b14d195e5",
   "lastOpenFiles": [
-    "Data Engineer/SQL/Alter tables.md",
-    "Data Engineer/SQL/LEARN SQL.md",
+    "Data Engineer/SQL/Add Foreign key After making a table.md",
+    "Data Engineer/SQL/String Functions.md",
+    "Data Engineer/SQL/Numbers Functions.md",
+    "Data Engineer/SQL/String Functions.md",
+    "Data Engineer/SQL/How to change a table name in SQL.md",
+    "Data Engineer/SQL/Drawing 2025-07-16 07.40.29.excalidraw.md",
+    "Data Engineer/SQL/Show all Tables in SQL.md",
+    "Untitled.canvas",
+    "Data Engineer/SQL/Show all table Columns in the table (SQL).md",
+    "Data Engineer/SQL/Copy SQL table to another.md",
     "Data Engineer/SQL/Add `PRIMARY KEY` to Existing Table in SQL.md",
+    "Data Engineer/SQL/LEARN SQL.md",
+    "Untitled 1.canvas",
+    "Data Engineer/SQL/Untitled.canvas",
+    "Data Engineer/SQL/Alter tables.md",
     "Data Engineer/Python/Language/Python Basics.md",
     "Data Engineer/Learn Data Analyst.md",
     "Data Engineer/Python/LEARN PYTHON.md",
-    "Data Engineer/SQL/How to change a table name in SQL.md",
-    "Data Engineer/SQL/Show all Tables in SQL.md",
-    "Data Engineer/SQL/Show all table Columns in the table (SQL).md",
     "2025-07-12.md",
     "Beginner web course.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
-    "Untitled.canvas",
     "Data Engineer/Python/Language/Syntax.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -201,13 +220,7 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "Data Engineer/Python/Language/Conditionals.md",
     "Data Engineer/Python/Language",
     "Data Engineer/Python",
     "Data Engineer/SQL",
