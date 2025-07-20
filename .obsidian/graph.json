@@ -1,24 +1,24 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Needs-Check  ",
+      "query": "python",
       "color": {
         "a": 1,
-        "rgb": 3516397
+        "rgb": 102633
       }
     },
     {
-      "query": "[\"tags\":SQL",
+      "query": "tag:#SQL",
       "color": {
         "a": 1,
-        "rgb": 7857454
+        "rgb": 12058704
       }
     }
   ],
@@ -27,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.354166666666667,
-  "repelStrength": 6.5625,
-  "linkStrength": 0.890625,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6599430498367306,
+  "scale": 0.8012574708203303,
   "close": true
 }

@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "b45b5110bd3c77c5",
+    "id": "f9e83cbe54998008",
     "type": "split",
     "children": [
       {
-        "id": "affb57e9c239f6aa",
+        "id": "b7e68d8abd3c805d",
         "type": "tabs",
         "children": [
           {
-            "id": "2e1319aca004e239",
+            "id": "eef638805b2c05f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "602f6f01670bd4ec",
+    "id": "ff5c353267c0c6d9",
     "type": "split",
     "children": [
       {
-        "id": "23813a978a0313e5",
+        "id": "0c34f157932bae88",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec08e66f1790f5d",
+            "id": "28435a91c3f42833",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "165aab15e6291a91",
+            "id": "6b6839e39cb45c41",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Needs-Check",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "ee3d28f72948949c",
+            "id": "2623ffe85fffffe6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,27 +70,27 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "0e6b4198a633f3a7",
+    "id": "c27f5de94b23b3d8",
     "type": "split",
     "children": [
       {
-        "id": "95b9e23e246f8c7a",
+        "id": "07f9b23513ee7e40",
         "type": "tabs",
         "children": [
           {
-            "id": "046b8ab8bdd7c07e",
+            "id": "315a0ef98e8f2e45",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +100,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bdb78c9b774bbb0a",
+            "id": "1e016c677d57f696",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "032113a98b075cc2",
+            "id": "bb283cd55abd76b7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,32 +132,21 @@
             }
           },
           {
-            "id": "835440c3d9df8377",
+            "id": "a2a542b335d831e6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
-            "id": "11bc294a6e6b44e6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "e9d682d2b50cba70",
+            "id": "1e453d27f87a0e51",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -166,9 +154,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "0d54a67dd4344e34",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,53 +175,37 @@
   "left-ribbon": {
     "hiddenItems": {
       "google-drive-sync:Push to Google Drive": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ec08e66f1790f5d",
+  "active": "eef638805b2c05f5",
   "lastOpenFiles": [
-    "Data Analyst/Python/Syntax.md",
-    "Data Engineer/Python/Language/Python Basics.md",
-    "Data Analyst/Python/Variables and Data types.md",
+    "Data Analyst/SQL/String Functions.md",
+    "Data Analyst/SQL/Dates in SQL.md",
+    "Data Analyst/SQL/Drawing 2025-07-20 20.21.20.excalidraw.md",
+    "Data Analyst/SQL/Date Function in SQL.md",
     "Data Analyst/Python/Conditionals.md",
-    "Data Analyst/SQL/Creating INDEX in SQL.md",
-    "Data Analyst/SQL/Add Foreign key After making a table.md",
-    "Data Analyst/SQL/String Functions.md",
-    "Data Analyst/SQL/Numbers Functions.md",
-    "Data Analyst/SQL/String Functions.md",
-    "Data Analyst/SQL/How to change a table name in SQL.md",
-    "Data Engineer/SQL/Drawing 2025-07-16 07.40.29.excalidraw.md",
-    "Data Analyst/SQL/Show all Tables in SQL.md",
-    "Untitled.canvas",
     "Data Analyst/SQL/Show all table Columns in the table (SQL).md",
+    "Data Analyst/SQL/Show all Tables in SQL.md",
+    "Data Analyst/SQL/Numbers Functions.md",
+    "Data Analyst/SQL/How to change a table name in SQL.md",
+    "Data Analyst/SQL/Creating INDEX in SQL.md",
     "Data Analyst/SQL/Copy SQL table to another.md",
     "Data Analyst/SQL/Add `PRIMARY KEY` to Existing Table in SQL.md",
-    "Data Engineer/SQL/LEARN SQL.md",
-    "Untitled 1.canvas",
-    "Data Engineer/SQL/Untitled.canvas",
-    "Data Engineer/SQL/Alter tables.md",
-    "Data Engineer/Learn Data Analyst.md",
-    "Data Engineer/Python/LEARN PYTHON.md",
-    "2025-07-12.md",
-    "Beginner web course.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts",
-    "Data Analyst/Python/Language",
-    "Data Analyst/Python",
+    "Data Analyst/SQL/Add Foreign key After making a table.md",
+    "Data Analyst/Python/Variables and Data types.md",
+    "Data Analyst/Python/Syntax.md",
     "Data Analyst/SQL",
-    "Untitled",
-    "Data Analyst"
+    "Data Analyst/Python",
+    "Data Analyst",
+    "Welcome.md"
   ]
 }
